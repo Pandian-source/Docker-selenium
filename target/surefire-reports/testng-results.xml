@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37230" started-at="2021-01-31T13:55:53 IST" finished-at="2021-01-31T13:56:30 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37230" started-at="2021-01-31T13:55:53 IST" finished-at="2021-01-31T13:56:30 IST">
+      <class name="dockerpackage.dockerchrome">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dockerpackage.dockerchrome@55d56113]" name="setUp" is-config="true" duration-ms="897" started-at="2021-01-31T13:55:52 IST" finished-at="2021-01-31T13:55:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="chrome()[pri:0, instance:dockerpackage.dockerchrome@55d56113]" name="chrome" duration-ms="4643" started-at="2021-01-31T13:55:53 IST" finished-at="2021-01-31T13:55:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chrome -->
+        <test-method status="PASS" signature="loginbutton()[pri:0, instance:dockerpackage.dockerchrome@55d56113]" name="loginbutton" duration-ms="1361" started-at="2021-01-31T13:55:57 IST" finished-at="2021-01-31T13:55:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginbutton -->
+        <test-method status="PASS" signature="password()[pri:0, instance:dockerpackage.dockerchrome@55d56113]" name="password" duration-ms="349" started-at="2021-01-31T13:55:59 IST" finished-at="2021-01-31T13:55:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method status="PASS" signature="password1()[pri:0, instance:dockerpackage.dockerchrome@55d56113]" name="password1" duration-ms="30407" started-at="2021-01-31T13:55:59 IST" finished-at="2021-01-31T13:56:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password1 -->
+        <test-method status="PASS" signature="tofield()[pri:0, instance:dockerpackage.dockerchrome@55d56113]" name="tofield" duration-ms="447" started-at="2021-01-31T13:56:30 IST" finished-at="2021-01-31T13:56:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tofield -->
+        <test-method status="PASS" signature="close()[pri:0, instance:dockerpackage.dockerchrome@55d56113]" name="close" is-config="true" duration-ms="4924" started-at="2021-01-31T13:56:30 IST" finished-at="2021-01-31T13:56:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- dockerpackage.dockerchrome -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
